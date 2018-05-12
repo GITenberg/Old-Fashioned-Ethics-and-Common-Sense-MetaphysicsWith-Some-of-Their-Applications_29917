@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '5964'
     url: http://www.gutenberg.org/2009/agents/5964
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29917#Old-Fashioned-Ethics-and-Common-Sense-MetaphysicsWith-Some-of-Their-Applications
 gutenberg_issued: '2009-09-06'
 gutenberg_type: Text
 identifiers:
