@@ -1,0 +1,30 @@
+_repo: Old-Fashioned-Ethics-and-Common-Sense-MetaphysicsWith-Some-of-Their-Applications_29917
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thornton, William Thomas
+    birthdate: 1813
+    deathdate: 1880
+    gutenberg_agent_id: '5964'
+    url: http://www.gutenberg.org/2009/agents/5964
+description: ''
+gutenberg_issued: '2009-09-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29917'
+  lccn: 09033061
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BJ'
+- !lcsh 'Metaphysics'
+- !lcsh 'Utilitarianism'
+title: 'Old-Fashioned Ethics and Common-Sense Metaphysics
+
+  With Some of Their Applications'
+url: http://www.gutenberg.org/ebooks/29917
